@@ -1,0 +1,10 @@
+.hmems .actions {
+	margin-bottom: 4px;
+}
+.hmems table thead td,
+.hmems table tfoot td {
+	padding: 8px 10px;
+}
+.hmems table tbody td {
+	padding: 4px 10px;
+}
